@@ -1,3 +1,3 @@
 # Certificates
 Sertifikalar
-![Sertifika](Özgür Erciyas - Java 101.pdf)
+![Sertifika](Java101.png)
